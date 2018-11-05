@@ -1,1 +1,1 @@
-<p>SNOW SET INIT</p>
+<p>CECI EST UN EXERCICE</p>
