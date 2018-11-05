@@ -2,6 +2,11 @@ textarea {
     resize: none;
 }
 
+#contact {
+    width: 100%;
+    text-align: center;
+}
+
 form {
     display: flex;
     flex-direction: column;
@@ -9,19 +14,11 @@ form {
     align-items: center;
 }
 
-form #contact {
-
-}
-
-form #newsletter {
-
-}
-
 form input {
     margin-bottom: 5px;
-    padding-left: 20px;
     height: 20px;
     width: 220px;
+    border: 1px solid #ccc;
 }
 
 form textarea {
