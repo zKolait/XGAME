@@ -1,0 +1,86 @@
+header {
+    height: 800px;
+    width: 100%;
+    background: url('../img/background.jpg');
+}
+
+header .navbar {
+    width: 100%;
+    height: 140px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header .navbar ul {
+    padding: 0px;
+    height: 140px;
+    width: 600px;
+    font-size: 21px;
+    margin-right: 150px;
+
+    font-weight: 500;
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row;
+}
+
+header .navbar li {
+    height: 22px;
+    cursor: pointer;
+    background: yellow;
+}
+
+header .navbar li a p {
+    margin-top: -10px;
+    margin-left: -10px;
+}
+
+header .navbar li:hover a p {
+    margin-top: 0px;
+    margin-left: 0px;
+}
+
+header .navbar .logo {
+    height: 140px;
+    width: 200px;
+
+    font-weight: 500;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+header .navbar .logo img {
+    width: 80px;
+}
+
+header .header {
+    height: 660px;
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+header .header .info {
+    width: 400px;
+    height: 400px;
+
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+header .header .info a {
+    border: 2px solid white;
+    color: white;
+    font-size: 18px;
+    padding: 2px 5px 2px 5px;
+    margin-bottom: 15px;
+    border-radius: 3px;
+}
