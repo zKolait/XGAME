@@ -47,3 +47,85 @@ a {
     }
 
 }
+
+
+
+.wrapper {
+    padding: 0;
+    margin: 0;
+
+    width: 100%;
+    height: inherit;
+    position: relative;
+    overflow: hidden;
+
+    -webkit-transition: 0.2s; /* Safari */
+    transition: 0.2s;
+}
+
+.wrapper2 {
+    padding: 0;
+    margin: 0;
+
+    width: 100%;
+    height: inherit;
+    position: relative;
+    overflow: hidden;
+
+    -webkit-transition: 0.2s; /* Safari */
+    transition: 0.2s;
+}
+
+.wrapper .info {
+    height: inherit;
+    width: 100%;
+
+    position: absolute;
+    bottom: -100%;
+
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+
+    -webkit-transition: 0.4s; /* Safari */
+    transition: 0.4s;
+}
+
+.wrapper2 .info {
+    width: 100%;
+
+    position: absolute;
+    bottom: -100%;
+
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+
+    -webkit-transition: 0.4s; /* Safari */
+    transition: 0.4s;
+}
+
+.wrapper .info img {
+    width: 50%;
+    margin-bottom: 3px;
+}
+
+.wrapper2 .info img {
+    width: 30% !important;
+    min-width: 20px !important;
+    margin-bottom: 3px;
+}
+
+.wrapper:hover .info {
+    bottom: 0;
+
+    -webkit-transition: 0.2s; /* Safari */
+    transition: 0.2s;
+}
+
+.wrapper2:hover .info {
+    bottom: 0;
+
+    -webkit-transition: 0.2s; /* Safari */
+    transition: 0.2s;
+}

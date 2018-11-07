@@ -3,7 +3,7 @@
 @media screen and (min-width: 1000px) {
 
     header {
-        height: 700px;
+        height: 940px;
         width: 100%;
         background: url('../img/background.jpg');
         background-size: cover;
@@ -62,8 +62,8 @@
     header nav ul {
         width: 600px;
         height: 150px;
-        padding: 0px;
-        margin: 0px;
+        padding: 0;
+        margin: 0;
 
         display: flex;
         flex-direction: row;
@@ -99,8 +99,8 @@
 
     header nav ul li:hover a span {
         position: relative;
-        top: 0px;
-        left: 0px;
+        top: 0;
+        left: 0;
     }
 
     header nav img {
@@ -114,7 +114,7 @@
 
     header .showcase {
         width: 100%;
-        height: 550px;
+        height: 790px;
 
         display: flex;
         justify-content: flex-end;
@@ -122,11 +122,11 @@
     }
     
     header .showcase .article {
-        height: 550px;
-        width: 474px;
+        height: 790px;
+        width: 680px;
 
         background: url('../img/headerletsnow.png') ;
-        background-size: 474px 550px;
+        background-size: 680px 790px;
 
         display: flex;
         justify-content: center;
@@ -158,7 +158,7 @@
 
         -webkit-box-shadow: 10px 10px 169px -9px rgba(255,255,255,1);
         -moz-box-shadow: 10px 10px 169px -9px rgba(255,255,255,1);
-        box-shadow: 10px 10px 169px -9px rgba(255,255,255,1);*/
+        box-shadow: 10px 10px 169px -9px rgba(255,255,255,1);
     }
 }
 
@@ -348,12 +348,16 @@
         width: 50%;
         min-width: 400px;
         margin-right: 10px;
+
+        cursor: pointer;
     }
 
     .article-top-right {
         width: 50%;
         min-width: 400px;
         margin-left: 10px;
+
+        cursor: pointer;
     }
 
     .mid-article {
@@ -363,6 +367,10 @@
     .mid-article .mid-article-mid img {
         width: 100%;
         min-width: 820px;
+    }
+
+    .mid-article .mid-article-mid {
+        cursor: pointer;
     }
 
     .bottom-article {
@@ -376,17 +384,23 @@
         width: 50%;
         min-width: 400px;
         margin-right: 10px;
+
+        cursor: pointer;
     }
 
     .article-bottom-right {
         width: 50%;
         min-width: 400px;
         margin-right: 10px;
+
+        cursor: pointer;
     }
 
-    article img {
+    main .wrapper img {
         width: 100%;
-        height: inherit;
+    }
+    main .wrapper2 img {
+        width: 100%;
     }
 }
 
@@ -411,12 +425,16 @@
         width: 50%;
         min-width: 200px;
         margin-right: 5px;
+
+        cursor: pointer;
     }
 
     .article-top-right {
         width: 50%;
         min-width: 200px;
         margin-left: 5px;
+
+        cursor: pointer;
     }
 
     .mid-article {
@@ -426,6 +444,10 @@
     .mid-article .mid-article-mid img {
         width: 100%;
         min-width: 500px;
+    }
+
+    .mid-article .mid-article-mid {
+        cursor: pointer;
     }
 
     .bottom-article {
@@ -441,17 +463,23 @@
         width: 50%;
         min-width: 200px;
         margin-left: 5px;
+
+        cursor: pointer;
     }
 
     .article-bottom-right {
         width: 50%;
         min-width: 200px;
         margin-left: 5px;
+
+        cursor: pointer;
     }
 
-    article img {
+    main .wrapper img {
         width: 100%;
-        height: inherit;
+    }
+    main .wrapper2 img {
+        width: 100%;
     }
 }
 
@@ -477,11 +505,15 @@
         width: 100%;
         min-width: 200px;
         margin-bottom: 10px;
+
+        cursor: pointer;
     }
 
     .article-top-right {
         width: 100%;
         min-width: 200px;
+
+        cursor: pointer;
     }
 
     .mid-article {
@@ -491,6 +523,10 @@
     .mid-article .mid-article-mid img {
         width: 100%;
         min-width: 200px;
+    }
+
+    .mid-article .mid-article-mid {
+        cursor: pointer;
     }
 
     .bottom-article {
@@ -507,15 +543,21 @@
         width: 100%;
         min-width: 200px;
         margin-bottom: 10px;
+
+        cursor: pointer;
     }
 
     .article-bottom-right {
         width: 100%;
         min-width: 200px;
+
+        cursor: pointer;
     }
 
-    article img {
+    main .wrapper img {
         width: 100%;
-        height: inherit;
+    }
+    main .wrapper2 img {
+        width: 100%;
     }
 }

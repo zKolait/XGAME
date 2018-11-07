@@ -6,155 +6,168 @@ body {
 
 @media screen and (min-width: 1000px) {
 
-main {
-	width: 80%;
-	margin: auto;
-}
+	main {
+		width: 80%;
+		margin: auto;
+	}
 
-.top-boutique {
-	width: 100%;
-	margin-top: 20px;
-	display: flex;
-}
+	.top-boutique {
+		width: 100%;
+		margin-top: 20px;
+		display: flex;
+	}
 
-.boutique-top-left {
-	width: 68%;
-	min-width: 400px;
-}
+	.boutique-top-left {
+		width: 68%;
+		min-width: 400px;
+	}
 
-.boutique-top-right {
-	width: 32%;
-	margin-left: 80px;
-}
+	.boutique-top-right {
+		width: 32%;
+		margin-left: 80px;
+	}
 
-.bottom-boutique {
-	width: 100%;
-	margin-top: 80px;
-	margin-bottom: 20px;
-	display: flex;
-	justify-content: space-between;
-}
+	.bottom-boutique {
+		width: 100%;
+		margin-top: 80px;
+		margin-bottom: 20px;
+		display: flex;
+		justify-content: space-between;
+	}
 
-.boutique-bottom-left {
-	width: 30%;
-}
+	.boutique-bottom-left {
+		width: 30%;
+	}
 
-.boutique-bottom-mid {
-	width: 30%;
-}
+	.boutique-bottom-mid {
+		width: 30%;
+	}
 
-.boutique-bottom-right {
-	width: 30%;
-}
+	.boutique-bottom-right {
+		width: 30%;
+	}
 
-main article img {
-	width: 100%;
-}
+	main .wrapper img {
+		width: 100%;
+	}
+	main .wrapper2 img {
+		width: 100%;
+	}
 }
 
 @media screen and (max-width: 1000px) {
 
-main {
-	width: 80%;
-	margin: auto;
-}
+	main {
+		width: 95%;
+		margin: auto;
+	}
 
-.top-boutique {
-	width: 100%;
-	margin-top: 20px;
-	display: flex;
-}
+	.top-boutique {
+		width: 100%;
+		margin-top: 20px;
+		display: flex;
+	}
 
-.boutique-top-left {
-	width: 68%;
-}
+	.boutique-top-left {
+		width: 68%;
+	}
 
-.boutique-top-right {
-	width: 32%;
-	margin-left: 40px;
-}
+	.boutique-top-right {
+		width: 32%;
+		margin-left: 40px;
+	}
 
-.bottom-boutique {
-	width: 100%;
-	margin-top: 40px;
-	margin-bottom: 15px;
-	display: flex;
-	justify-content: space-between;
-}
+	.bottom-boutique {
+		width: 100%;
+		margin-top: 40px;
+		margin-bottom: 15px;
+		display: flex;
+		justify-content: space-between;
+	}
 
-.boutique-bottom-left {
-	width: 30%;
-	min-width: 200px;
-}
+	.boutique-bottom-left {
+		width: 31%;
+		min-width: 180px;
+	}
 
-.boutique-bottom-mid {
-	width: 30%;
-	min-width: 200px;
-}
+	.boutique-bottom-mid {
+		width: 31%;
+		min-width: 180px;
+	}
 
-.boutique-bottom-right {
-	width: 30%;
-	min-width: 200px;
-}
+	.boutique-bottom-right {
+		width: 31%;
+		min-width: 180px;
+	}
 
-main article img {
-	width: 100%;
-}
+	main .wrapper img {
+		width: 100%;
+	}
+	main .wrapper2 img {
+		width: 100%;
+	}
 }
 
 @media screen and (max-width: 600px) {
 
-main {
-	width: 80%;
-	margin: auto;
-}
+	main {
+		width: 95%;
+		margin: auto;
+	}
 
-.top-boutique {
-	width: 100%;
-	margin-top: 20px;
-	display: flex;
-	flex-direction: column;
-}
+	.top-boutique {
+		width: 100%;
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
+	}
 
-.boutique-top-left {
-	width: 100%;
-	min-width: 200px;
-	margin-bottom: 30px;
-}
+	.boutique-top-left {
+		width: 100%;
+		min-width: 200px;
+		margin-bottom: 20px;
+	}
 
-.boutique-top-right {
-	width: 100%;
-}
+	.boutique-top-right {
+		margin: 0;
+		padding: 0;
 
-.bottom-boutique {
-	width: 100%;
-	margin-top: 80px;
-	margin-bottom: 10px;
-	display: flex;
-	justify-content: space-between;
-	flex-direction: column;
-}
+		width: 100%;
+		min-width: 200px;
+	}
 
-.boutique-bottom-left {
-	width: 100%;
-	min-width: 200px;
-	margin-bottom: 30px;
-}
+	.bottom-boutique {
+		width: 100%;
+		min-width: 200px;
+		display: flex;
+		justify-content: space-between;
+		flex-direction: column;
+	}
 
-.boutique-bottom-mid {
-	width: 100%;
-	min-width: 200px;
-	margin-bottom: 30px;
-}
+	.boutique-bottom-left {
+		width: 100%;
+		min-width: 200px;
+		margin-bottom: 20px;
+	}
 
-.boutique-bottom-right {
-	width: 100%;
-	min-width: 200px;
-	margin-bottom: 30px;
-}
+	.boutique-bottom-mid {
+		width: 100%;
+		min-width: 200px;
+		margin-bottom: 20px;
+	}
 
-main article img {
-	width: 100%;
-}
+	.boutique-bottom-right {
+		width: 100%;
+		min-width: 200px;
+		margin-bottom: 30px;
+	}
+
+	main .wrapper img {
+		width: 100%;
+	}
+	main .wrapper2 img {
+		width: 100%;
+	}
 
 }
