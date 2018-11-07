@@ -18,13 +18,13 @@
 
             <section class="navbar">
                 <div class="logo">
-                    <img src="img/logo.png" alt="Logo SnowSet">
+                    <a href="index.php"><img src="img/logo.png" alt="Logo SnowSet"></a>
                     <h1>SNOWSET</h1>
                 </div>
 
                 <nav>
                     <ul>
-                        <li><a href=""><span>BOUTIQUE</span></a></li>
+                        <li><a href="boutique.php"><span>BOUTIQUE</span></a></li>
                         <li><a href=""><span>PARTENAIRE</span></a></li>
                         <li><a href=""><span>NOTRE MARQUE</span></a></li>
                         <li><a href=""><span>PANIER</span></a></li>

@@ -1,0 +1,160 @@
+body {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+}
+
+@media screen and (min-width: 1000px) {
+
+main {
+	width: 80%;
+	margin: auto;
+}
+
+.top-boutique {
+	width: 100%;
+	margin-top: 20px;
+	display: flex;
+}
+
+.boutique-top-left {
+	width: 68%;
+	min-width: 400px;
+}
+
+.boutique-top-right {
+	width: 32%;
+	margin-left: 80px;
+}
+
+.bottom-boutique {
+	width: 100%;
+	margin-top: 80px;
+	margin-bottom: 20px;
+	display: flex;
+	justify-content: space-between;
+}
+
+.boutique-bottom-left {
+	width: 30%;
+}
+
+.boutique-bottom-mid {
+	width: 30%;
+}
+
+.boutique-bottom-right {
+	width: 30%;
+}
+
+main article img {
+	width: 100%;
+}
+}
+
+@media screen and (max-width: 1000px) {
+
+main {
+	width: 80%;
+	margin: auto;
+}
+
+.top-boutique {
+	width: 100%;
+	margin-top: 20px;
+	display: flex;
+}
+
+.boutique-top-left {
+	width: 68%;
+}
+
+.boutique-top-right {
+	width: 32%;
+	margin-left: 40px;
+}
+
+.bottom-boutique {
+	width: 100%;
+	margin-top: 40px;
+	margin-bottom: 15px;
+	display: flex;
+	justify-content: space-between;
+}
+
+.boutique-bottom-left {
+	width: 30%;
+	min-width: 200px;
+}
+
+.boutique-bottom-mid {
+	width: 30%;
+	min-width: 200px;
+}
+
+.boutique-bottom-right {
+	width: 30%;
+	min-width: 200px;
+}
+
+main article img {
+	width: 100%;
+}
+}
+
+@media screen and (max-width: 600px) {
+
+main {
+	width: 80%;
+	margin: auto;
+}
+
+.top-boutique {
+	width: 100%;
+	margin-top: 20px;
+	display: flex;
+	flex-direction: column;
+}
+
+.boutique-top-left {
+	width: 100%;
+	min-width: 200px;
+	margin-bottom: 30px;
+}
+
+.boutique-top-right {
+	width: 100%;
+}
+
+.bottom-boutique {
+	width: 100%;
+	margin-top: 80px;
+	margin-bottom: 10px;
+	display: flex;
+	justify-content: space-between;
+	flex-direction: column;
+}
+
+.boutique-bottom-left {
+	width: 100%;
+	min-width: 200px;
+	margin-bottom: 30px;
+}
+
+.boutique-bottom-mid {
+	width: 100%;
+	min-width: 200px;
+	margin-bottom: 30px;
+}
+
+.boutique-bottom-right {
+	width: 100%;
+	min-width: 200px;
+	margin-bottom: 30px;
+}
+
+main article img {
+	width: 100%;
+}
+
+}

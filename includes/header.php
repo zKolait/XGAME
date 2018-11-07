@@ -2,7 +2,7 @@
 
     <section class="navbar">
         <div class="logo">
-            <img src="img/logo.png" alt="Logo SnowSet">
+            <a href="index.php"><img src="img/logo.png" alt="Logo SnowSet"></a>
             <h1>SNOWSET</h1>
         </div>
 
