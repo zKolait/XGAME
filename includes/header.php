@@ -1,7 +1,3 @@
-
-
-
-
 <header>
 
     <section class="navbar">

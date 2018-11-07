@@ -54,7 +54,7 @@
             </div>
 
             <div class="mid-article">
-                <article>
+                <article class="mid-article-mid">
                     <img src="img/image3.png" alt="">
                 </article>
             </div>
