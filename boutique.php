@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-	<title>Snowset</title>
+	<title>Boutique</title>
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 	<link rel="stylesheet" type="text/css" href="css/boutique.css">
 	<link rel="stylesheet" type="text/css" href="css/footer.css">
@@ -20,10 +20,12 @@
 			<div class="top-boutique">
 				<article class="boutique-top-left">
 					<img src="img/boutique2019.jpg" alt="">
+					<p>2019</p>
 				</article>
 
 				<article class="boutique-top-right">
 					<img src="img/boutiquechaussettes.jpg" alt="">
+					<p><span>#</span>Bien dans vos chaussettes</p>
 				</article>
 			</div>
 

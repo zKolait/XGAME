@@ -25,9 +25,9 @@
                 <nav>
                     <ul>
                         <li><a href="boutique.php"><span>BOUTIQUE</span></a></li>
-                        <li><a href=""><span>PARTENAIRE</span></a></li>
-                        <li><a href=""><span>NOTRE MARQUE</span></a></li>
-                        <li><a href=""><span>PANIER</span></a></li>
+                        <li><a href="partenaires.php"><span>PARTENAIRE</span></a></li>
+                        <li><a href="marque.php"><span>NOTRE MARQUE</span></a></li>
+                        <li><a href="panier.php"><span>PANIER</span></a></li>
                     </ul>
 
                     <img src="img/menu.png" alt="Menu" id="menu">
