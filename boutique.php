@@ -18,27 +18,19 @@
 		<main>
 
 			<div class="top-boutique">
+
 				<div class="boutique-top-left">
-                    <a href="">
-                        <div class="wrapper">
-                            <img src="img/boutique2019.jpg" alt="boutique 2019">
-                            <div class="info">
-                                <img src="img/article-top-left.png" alt="boutique 2019 article">
-                            </div>
-                        </div>
-                    </a>
+                    <div class="wrapper">
+                        <img src="img/boutique2019.jpg" alt="boutique 2019">
+                    </div>
 				</div>
 
 				<div class="boutique-top-right">
-                    <a href="">
-                        <div class="wrapper">
-                            <img src="img/boutiquechaussettes.jpg" alt="Bien dans vos chaussettes">
-                            <div class="info">
-                                <img src="img/article-top-left.png" alt="Bien dans vos chaussettes produits">
-                            </div>
-                        </div>
-                    </a>
+                    <div class="wrapper">
+                        <img src="img/boutiquechaussettes.png" alt="Bien dans vos chaussettes">
+                    </div>
 				</div>
+
 			</div>
 
 			<div class="bottom-boutique">

@@ -51,8 +51,8 @@
         <section data-aos="fade-up-right" class="section-skiforce">
             <img src="img/skiforce.jpg" alt="rock snowboard tour">
             <article class="article-skiforce">
-                <h3>Rock on snowboard tour</h3>
-                <p>Un événement itinérant 100% snowboard, à l'occasion duquel plus de 25 marques proposent de tester gratuitement leur novueau matériel aux passionés, initiés et amateurs, venus de la France entière. </p>
+                <h3>Ski force winter tour</h3>
+                <p>Le Ski Force Winter Tour revient avec près de 20 marques à ses côtés, lors de deux weekends dans deux stations : Tignes et Val d'Isère. Pendant ces deux événemebts, vous pouvez aller découvrir les novuelles gammes et célébrer l'ouverture de la saison.</p>
                 <div class="container-btn">
                     <button class="btn discover">Discover</button>
                 </div>
@@ -64,7 +64,7 @@
         </div>
     <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
     <script src="jquery/aos.js"></script>
-    <script type="text/javascript">
+    <script>
         AOS.init({
             duration: 2000,
         });

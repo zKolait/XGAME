@@ -27,6 +27,10 @@
         text-transform: uppercase;
     }
 
+    section article h3 {
+        text-transform: uppercase;
+    }
+
     .section-xgames {
         width: 80%;
         margin: auto;
