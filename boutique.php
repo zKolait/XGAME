@@ -3,7 +3,6 @@
 <head>
 	<meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-	<title>Boutique</title>
 	<title>Snowset</title>
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 	<link rel="stylesheet" type="text/css" href="css/boutique.css">
@@ -19,30 +18,6 @@
 		<main>
 
 			<div class="top-boutique">
-				<article class="boutique-top-left">
-					<img src="img/boutique2019.jpg" alt="">
-					<p>2019</p>
-				</article>
-
-				<article class="boutique-top-right">
-					<img src="img/boutiquechaussettes.jpg" alt="">
-					<p><span>#</span>Bien dans vos chaussettes</p>
-				</article>
-			</div>
-
-			<div class="bottom-boutique">
-				<article class="boutique-bottom-left">
-					<img src="img/boutiquehomme.jpg" alt="">
-				</article>
-
-				<article class="boutique-bottom-mid">
-					<img src="img/boutiquefemme.jpg" alt="">
-				</article>
-
-				<article class="boutique-bottom-right">
-					<img src="img/boutiqueautre.jpg" alt="">
-				</article>
-
 				<div class="boutique-top-left">
                     <a href="">
                         <div class="wrapper">
