@@ -26,11 +26,33 @@
             </div>
         </main>
 
-        <section class="section-xgames">
+        <section data-aos="fade-up-right" class="section-xgames">
             <img src="img/xgames.jpg" alt="x games">
             <article class="article-xgames">
                 <h3>X games</h3>
                 <p>Les X Games sont une compétition annuelle de plusieurs sports dits extrêmes. Les jeux sont organisés et diffusés aux États-Unis (à Aspen, Colorado) par le réseau de télévision ESPN et sont séparés en deux saisons : les Winter X Games et les Summer X Games.</p>
+                <div class="container-btn">
+                    <button class="btn discover">Discover</button>
+                </div>
+            </article>
+        </section>
+
+        <section data-aos="fade-up-left" class="section-rock">
+            <img src="img/rock.jpg" alt="rock snowboard tour">
+            <article class="article-rock">
+                <h3>Rock on snowboard tour</h3>
+                <p>Un événement itinérant 100% snowboard, à l'occasion duquel plus de 25 marques proposent de tester gratuitement leur novueau matériel aux passionés, initiés et amateurs, venus de la France entière. </p>
+                <div class="container-btn">
+                    <button class="btn discover">Discover</button>
+                </div>
+            </article>
+        </section>
+
+        <section data-aos="fade-up-right" class="section-skiforce">
+            <img src="img/skiforce.jpg" alt="rock snowboard tour">
+            <article class="article-skiforce">
+                <h3>Rock on snowboard tour</h3>
+                <p>Un événement itinérant 100% snowboard, à l'occasion duquel plus de 25 marques proposent de tester gratuitement leur novueau matériel aux passionés, initiés et amateurs, venus de la France entière. </p>
                 <div class="container-btn">
                     <button class="btn discover">Discover</button>
                 </div>
@@ -42,5 +64,10 @@
         </div>
     <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
     <script src="jquery/aos.js"></script>
+    <script type="text/javascript">
+        AOS.init({
+            duration: 2000,
+        });
+    </script>
     </body>
 </html>

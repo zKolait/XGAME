@@ -49,6 +49,51 @@
         flex-direction: column;
     }
 
+    .section-rock {
+        width: 80%;
+        margin: auto;
+        margin-top: 80px;
+        display: flex;
+        flex-direction: row-reverse;
+        margin-bottom: 20px;
+    }
+
+    .article-rock {
+        height: 480px;
+        width: 50%;
+
+        text-align: left;
+        font-size: 22px;
+        line-height: 30px;
+
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .section-skiforce {
+        width: 80%;
+        margin: auto;
+        margin-top: 40px;
+        display: flex;
+        margin-bottom: 20px;
+    }
+
+    .article-skiforce {
+        height: 480px;
+        width: 50%;
+
+        text-align: left;
+        font-size: 22px;
+        line-height: 30px;
+
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+
     /* BTN DISCOVER */
 
     .container-btn {
