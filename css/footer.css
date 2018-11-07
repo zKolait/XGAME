@@ -1,0 +1,31 @@
+footer {
+	height: 90px;
+	width: 100%;
+	background: #dadada;
+	display: flex;
+}
+
+footer nav {
+	width: 75%;
+	height: inherit;
+	margin: auto;
+}
+
+footer nav ul {
+	margin: auto;
+	list-style: none;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	justify-content: space-around;
+	padding-top: 35px;
+}
+
+footer nav ul li {
+	font-size: 24px;
+}
+
+footer nav ul li a {
+	text-decoration: none;
+	color: #4f4f4f;
+}

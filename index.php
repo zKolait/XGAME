@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>SnowSet</title>
+    <title>Snowset</title>
     <link rel="stylesheet" type="text/css" href="css/index.css">
     <link rel="stylesheet" type="text/css" href="css/style.css">
     <link rel="stylesheet" type="text/css" href="css/footer.css">
@@ -42,11 +42,32 @@
 
         </header>
 
+       <main>
+            <div class="top-article">
+                <article class="article-top-left">
+                    <img src="img/image1.png" alt="">
+                </article>
 
+                <article class="article-top-right">
+                    <img src="img/image2.png" alt="">
+                </article>
+            </div>
 
+            <div class="mid-article">
+                <article>
+                    <img src="img/image3.png" alt="">
+                </article>
+            </div>
 
-        <main>
+            <div class="bottom-article">
+                <article class="article-bottom-left">
+                    <img src="img/image4.png" alt="">
+                </article>
 
+                <article class="article-bottom-right">
+                    <img src="img/image5.png" alt="">
+                </article>
+            </div>
         </main>
 
     </div>
