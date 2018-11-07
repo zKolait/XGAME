@@ -3,7 +3,7 @@
 @media screen and (min-width: 1000px) {
 
     header {
-        height: 700px;
+        height: 940px;
         width: 100%;
         background: url('../img/background.jpg');
         background-size: cover;
@@ -114,7 +114,7 @@
 
     header .showcase {
         width: 100%;
-        height: 550px;
+        height: 790px;
 
         display: flex;
         justify-content: flex-end;
@@ -122,11 +122,11 @@
     }
 
     header .showcase .article {
-        height: 550px;
-        width: 474px;
+        height: 790px;
+        width: 680px;
 
         background: url('../img/headerletsnow.png') ;
-        background-size: 474px 550px;
+        background-size: 680px 790px;
 
         display: flex;
         justify-content: center;
@@ -348,12 +348,16 @@
         width: 50%;
         min-width: 400px;
         margin-right: 10px;
+
+        cursor: pointer;
     }
 
     .article-top-right {
         width: 50%;
         min-width: 400px;
         margin-left: 10px;
+
+        cursor: pointer;
     }
 
     .mid-article {
@@ -363,6 +367,10 @@
     .mid-article .mid-article-mid img {
         width: 100%;
         min-width: 820px;
+    }
+
+    .mid-article .mid-article-mid {
+        cursor: pointer;
     }
 
     .bottom-article {
@@ -376,15 +384,19 @@
         width: 50%;
         min-width: 400px;
         margin-right: 10px;
+
+        cursor: pointer;
     }
 
     .article-bottom-right {
         width: 50%;
         min-width: 400px;
         margin-right: 10px;
+
+        cursor: pointer;
     }
 
-    article img {
+    article .img-article {
         width: 100%;
         height: inherit;
     }
@@ -411,12 +423,16 @@
         width: 50%;
         min-width: 200px;
         margin-right: 5px;
+
+        cursor: pointer;
     }
 
     .article-top-right {
         width: 50%;
         min-width: 200px;
         margin-left: 5px;
+
+        cursor: pointer;
     }
 
     .mid-article {
@@ -426,6 +442,10 @@
     .mid-article .mid-article-mid img {
         width: 100%;
         min-width: 500px;
+    }
+
+    .mid-article .mid-article-mid {
+        cursor: pointer;
     }
 
     .bottom-article {
@@ -441,15 +461,19 @@
         width: 50%;
         min-width: 200px;
         margin-left: 5px;
+
+        cursor: pointer;
     }
 
     .article-bottom-right {
         width: 50%;
         min-width: 200px;
         margin-left: 5px;
+
+        cursor: pointer;
     }
 
-    article img {
+    article .img-article {
         width: 100%;
         height: inherit;
     }
@@ -477,11 +501,15 @@
         width: 100%;
         min-width: 200px;
         margin-bottom: 10px;
+
+        cursor: pointer;
     }
 
     .article-top-right {
         width: 100%;
         min-width: 200px;
+
+        cursor: pointer;
     }
 
     .mid-article {
@@ -491,6 +519,10 @@
     .mid-article .mid-article-mid img {
         width: 100%;
         min-width: 200px;
+    }
+
+    .mid-article .mid-article-mid {
+        cursor: pointer;
     }
 
     .bottom-article {
@@ -507,14 +539,18 @@
         width: 100%;
         min-width: 200px;
         margin-bottom: 10px;
+
+        cursor: pointer;
     }
 
     .article-bottom-right {
         width: 100%;
         min-width: 200px;
+
+        cursor: pointer;
     }
 
-    article img {
+    article .img-article {
         width: 100%;
         height: inherit;
     }
