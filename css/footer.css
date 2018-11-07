@@ -1,8 +1,10 @@
-@media screen and (min-width: 800px) {
+@media screen and (min-width: 1000px) {
 	footer {
 		height: 90px;
 		width: 100%;
-		background: #dadada;
+		background: url("../img/background.jpg");
+		background-size: cover;
+
 		display: flex;
 	}
 
@@ -32,18 +34,19 @@
 
 	footer nav ul li:hover a {
 		text-decoration: none;
-		color: #404040;
+		color: #202020;
 
 		-webkit-transition: 0.2s; /* Safari */
 		transition: 0.2s;
 	}
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 1000px) {
 	footer {
 		height: 160px;
 		width: 100%;
-		background: #dadada;
+		background: url("../img/background.jpg");
+		background-size: cover;
 
 		display: flex;
 	}
@@ -75,7 +78,7 @@
 
 	footer nav ul li:hover a {
 		text-decoration: none;
-		color: #404040;
+		color: #202020;
 
 		-webkit-transition: 0.2s; /* Safari */
 		transition: 0.2s;

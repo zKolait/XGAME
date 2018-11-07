@@ -18,27 +18,62 @@
 		<main>
 
 			<div class="top-boutique">
-				<article class="boutique-top-left">
-					<img src="img/boutique2019.jpg" alt="">
-				</article>
+				<div class="boutique-top-left">
+                    <a href="">
+                        <div class="wrapper">
+                            <img src="img/boutique2019.jpg" alt="boutique 2019">
+                            <div class="info">
+                                <img src="img/article-top-left.png" alt="boutique 2019 article">
+                            </div>
+                        </div>
+                    </a>
+				</div>
 
-				<article class="boutique-top-right">
-					<img src="img/boutiquechaussettes.jpg" alt="">
-				</article>
+				<div class="boutique-top-right">
+                    <a href="">
+                        <div class="wrapper">
+                            <img src="img/boutiquechaussettes.jpg" alt="Bien dans vos chaussettes">
+                            <div class="info">
+                                <img src="img/article-top-left.png" alt="Bien dans vos chaussettes produits">
+                            </div>
+                        </div>
+                    </a>
+				</div>
 			</div>
 
 			<div class="bottom-boutique">
-				<article class="boutique-bottom-left">
-					<img src="img/boutiquehomme.jpg" alt="">
-				</article>
+				<div class="boutique-bottom-left">
+                    <a href="">
+                        <div class="wrapper">
+                            <img src="img/boutiquehomme.jpg" alt="">
+                            <div class="info">
+                                <img src="img/article-top-left.png" alt="produit 1">
+                            </div>
+                        </div>
+                    </a>
+				</div>
 
-				<article class="boutique-bottom-mid">
-					<img src="img/boutiquefemme.jpg" alt="">
-				</article>
+				<div class="boutique-bottom-mid">
+                    <a href="">
+                        <div class="wrapper">
+                            <img src="img/boutiquefemme.jpg" alt="">
+                            <div class="info">
+                                <img src="img/article-top-left.png" alt="produit 2">
+                            </div>
+                        </div>
+                    </a>
+				</div>
 
-				<article class="boutique-bottom-right">
-					<img src="img/boutiqueautre.jpg" alt="">
-				</article>
+				<div class="boutique-bottom-right">
+                    <a href="">
+                        <div class="wrapper">
+                            <img src="img/boutiqueautre.jpg" alt="">
+                            <div class="info">
+                                <img src="img/article-top-left.png" alt="produit 3">
+                            </div>
+                        </div>
+                    </a>
+				</div>
 			</div>
 
 		</main>
