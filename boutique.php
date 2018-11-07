@@ -4,6 +4,7 @@
 	<meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 	<title>Boutique</title>
+	<title>Snowset</title>
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 	<link rel="stylesheet" type="text/css" href="css/boutique.css">
 	<link rel="stylesheet" type="text/css" href="css/footer.css">
@@ -41,6 +42,63 @@
 				<article class="boutique-bottom-right">
 					<img src="img/boutiqueautre.jpg" alt="">
 				</article>
+
+				<div class="boutique-top-left">
+                    <a href="">
+                        <div class="wrapper">
+                            <img src="img/boutique2019.jpg" alt="boutique 2019">
+                            <div class="info">
+                                <img src="img/article-top-left.png" alt="boutique 2019 article">
+                            </div>
+                        </div>
+                    </a>
+				</div>
+
+				<div class="boutique-top-right">
+                    <a href="">
+                        <div class="wrapper">
+                            <img src="img/boutiquechaussettes.jpg" alt="Bien dans vos chaussettes">
+                            <div class="info">
+                                <img src="img/article-top-left.png" alt="Bien dans vos chaussettes produits">
+                            </div>
+                        </div>
+                    </a>
+				</div>
+			</div>
+
+			<div class="bottom-boutique">
+				<div class="boutique-bottom-left">
+                    <a href="">
+                        <div class="wrapper">
+                            <img src="img/boutiquehomme.jpg" alt="">
+                            <div class="info">
+                                <img src="img/article-top-left.png" alt="produit 1">
+                            </div>
+                        </div>
+                    </a>
+				</div>
+
+				<div class="boutique-bottom-mid">
+                    <a href="">
+                        <div class="wrapper">
+                            <img src="img/boutiquefemme.jpg" alt="">
+                            <div class="info">
+                                <img src="img/article-top-left.png" alt="produit 2">
+                            </div>
+                        </div>
+                    </a>
+				</div>
+
+				<div class="boutique-bottom-right">
+                    <a href="">
+                        <div class="wrapper">
+                            <img src="img/boutiqueautre.jpg" alt="">
+                            <div class="info">
+                                <img src="img/article-top-left.png" alt="produit 3">
+                            </div>
+                        </div>
+                    </a>
+				</div>
 			</div>
 
 		</main>
