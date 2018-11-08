@@ -4,7 +4,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Contact</title>
+    <title>Snowset Contact</title>
+    <meta name="keywords" content="SnowSet,Sky,Chaussette,Socks,Sport,Stylized,Colorful,Snow,Neige,Equipement,Contact">
+    <meta name="author" content="Nicolas Chapeau et Vianney Traina">
+    <meta name="description" content="Contactez-nous !">
+
+    <link rel="shortcut icon" type="image/png" href="img/favicon.png"/>
+
     <link rel="stylesheet" type="text/css" href="css/style.css">
     <link rel="stylesheet" type="text/css" href="css/contact.css">
     <link rel="stylesheet" type="text/css" href="css/footer.css">
@@ -23,7 +29,7 @@
             <h2><span>Nous contacter</span></h2>
         </div>
 
-        <p><i>N'hésitez pas à nous laisser un message si vous avez la moindre interrogation sur notre produit ou si vous souhaitez obtenir plus de renseignements, l'équipe Snowset est à votre disposition !</i></p>
+        <p class="textc"><i>N'hésitez pas à nous laisser un message si vous avez la moindre interrogation sur notre produit ou si vous souhaitez obtenir plus de renseignements, l'équipe Snowset est à votre disposition !</i></p>
 
     </main>
 

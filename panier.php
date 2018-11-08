@@ -4,7 +4,13 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta http-equiv="X-UA-Compatible" content="ie=edge">
-        <title>Snowset</title>
+        <title>Snowset panier</title>
+        <meta name="keywords" content="SnowSet,Sky,Chaussette,Socks,Sport,Stylized,Colorful,Snow,Neige,Equipement">
+        <meta name="author" content="Nicolas Chapeau et Vianney Traina">
+        <meta name="description" content="Validez vos achats !">
+
+        <link rel="shortcut icon" type="image/png" href="img/favicon.png"/>
+
         <link rel="stylesheet" type="text/css" href="css/style.css">
         <link rel="stylesheet" type="text/css" href="css/panier.css">
         <link rel="stylesheet" type="text/css" href="css/footer.css">

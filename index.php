@@ -4,7 +4,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Snowset</title>
+    <title>Snowset Accueil</title>
+    <meta name="keywords" content="SnowSet,Sky,Chaussette,Socks,Sport,Stylized,Colorful,Snow,Neige,Equipement,Home,Accueil">
+    <meta name="author" content="Nicolas Chapeau et Vianney Traina">
+    <meta name="description" content="Snowset, une marque innovante pour tout sportif et passionné de la glisse !">
+
+    <link rel="shortcut icon" type="image/png" href="img/favicon.png"/>
+
     <link rel="stylesheet" type="text/css" href="css/index.css">
     <link rel="stylesheet" type="text/css" href="css/style.css">
     <link rel="stylesheet" type="text/css" href="css/footer.css">
@@ -34,29 +40,29 @@
                <video autoplay loop muted class="wrapper__video">
                   <source src="video/video-bg.mp4">
                </video>
-            </div>
 
-            <section class="navbar">
-                <div class="logo">
-                    <a href="index.php"><img src="img/logo.png" alt="Logo SnowSet"></a>
-                    <h1>SNOWSET</h1>
-                </div>
+                <section class="navbar">
+                    <div class="logo">
+                        <a href="index.php"><img src="img/logo.png" alt="Logo SnowSet"></a>
+                        <h1>SNOWSET</h1>
+                    </div>
 
-                <nav>
-                    <ul>
-                        <li><a href="boutique.php"><span>BOUTIQUE</span></a></li>
-                        <li><a href="partenaires.php"><span>PARTENAIRE</span></a></li>
-                        <li><a href="marque.php"><span>NOTRE MARQUE</span></a></li>
-                        <li><a href="panier.php"><span>PANIER</span></a></li>
-                    </ul>
+                    <nav>
+                        <ul>
+                            <li><a href="boutique.php"><span>BOUTIQUE</span></a></li>
+                            <li><a href="partenaires.php"><span>PARTENAIRE</span></a></li>
+                            <li><a href="marque.php"><span>NOTRE MARQUE</span></a></li>
+                            <li><a href="panier.php"><span>PANIER</span></a></li>
+                        </ul>
 
-                    <img src="img/menu.png" alt="Menu" id="menu">
-                </nav>
-            </section>
+                        <img src="img/menu.png" alt="Menu" id="menu">
+                    </nav>
+                </section>
 
-            <div class="showcase">
-                <div class="article">
-                    <a href="marque.phpw">DISCOVER</a>
+                <div class="showcase">
+                    <div class="article">
+                        <a href="marque.php">DISCOVER</a>
+                    </div>
                 </div>
             </div>
 

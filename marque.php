@@ -4,12 +4,21 @@
 	<meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-	<title>Notre marque</title>
+	<title>Snowset Notre marque</title>
+    <meta name="keywords" content="SnowSet,Sky,Chaussette,Socks,Sport,Stylized,Colorful,Snow,Neige,Equipement">
+    <meta name="author" content="Nicolas Chapeau et Vianney Traina">
+    <meta name="description" content="Découvrez notre marque !">
+
+    <link rel="shortcut icon" type="image/png" href="img/favicon.png"/>
+
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 	<link rel="stylesheet" type="text/css" href="css/marque.css">
 	<link rel="stylesheet" type="text/css" href="css/header.css">
 	<link rel="stylesheet" type="text/css" href="css/footer.css">
 	<link rel="stylesheet" type="text/css" href="jquery/aos.css">
+
+    <link rel="shortcut icon" type="image/png" href="img/favicon.png"/>
+
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 </head>

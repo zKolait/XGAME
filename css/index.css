@@ -24,10 +24,8 @@
     header {
         height: 840px;
         width: 100%;
-        background: url('../img/background.jpg');
         background-size: cover;
         background-attachment: fixed;
-        z-index: 10;
 
         display: flex;
         flex-direction: column;
@@ -39,6 +37,9 @@
 
         display: flex;
         justify-content: space-between;
+
+        position: relative;
+        z-index: 10;
     }
 
 
@@ -77,6 +78,9 @@
 
         width: 700px;
         height: 150px;
+
+        position: relative;
+        z-index: 10;
     }
 
     header nav ul {
@@ -133,6 +137,9 @@
     /* HEADER SHOWCASE */
 
     header .showcase {
+        position: relative;
+        z-index: 10;
+
         width: 100%;
         height: 750px;
 
@@ -159,7 +166,7 @@
         font-weight: 600;
         color: white;
 
-        margin-bottom: 50px;
+        margin-bottom: 100px;
         margin-left: 220px;
         padding: 7px 25px 6px 25px;
 
@@ -174,7 +181,7 @@
         
         font-size: 20px;
 
-        margin-bottom: 49px;
+        margin-bottom: 99px;
 
         -webkit-box-shadow: 10px 10px 169px -9px rgba(255,255,255,1);
         -moz-box-shadow: 10px 10px 169px -9px rgba(255,255,255,1);
@@ -189,6 +196,17 @@
 
 
 @media screen and (max-width: 1000px) {
+
+    .wrapper3 {
+        height: 840px;
+        width: 100%;
+        position: absolute;
+        overflow: hidden;
+    }
+
+    .wrapper3 .wrapper__video {
+        display: none;
+    }
 
     .menu {
         display: none;
