@@ -46,7 +46,7 @@
                         <div class="wrapper">
                             <img src="img/boutiquehomme.jpg" alt="collection homme">
                             <div class="info">
-                                <img src="img/article-top-left.png" alt="boutique homme">
+                                <img src="img/article-bottom-left.png" alt="boutique homme">
                             </div>
                         </div>
                     </a>
