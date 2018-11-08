@@ -225,7 +225,7 @@ section article h3 {
         flex-direction: column;
     }
 
-    section img {
+    .article-img img {
         width: 100%;
     }
 

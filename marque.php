@@ -18,32 +18,33 @@
 		<?php include 'includes/header.php' ?>
 
 		<main>
-			<div class="title-center">
-				<h2><span>Notre marque</span></h2>
-			</div>
-		</main>
+            <div class="content">
+                <div class="title-center">
+                    <h2><span>Notre marque</span></h2>
+                </div>
 
-		<section data-aos="fade-up-right" class="section-performance">
-			<img src="img/performance.jpg" alt="performance">
-			<div class="performance-p">
-				<p>Snowset c’est la performance<br> de la chaussette. Sa coupe et ses<br> composants assurentun excellent maintien<br> qui sublimera vos performances. Snowset<br> accompagne les amateurs de sensations fortes,<br> passionés par le sport.</p>
-			</div>
-		</section>
+                <section data-aos="fade-up-right" class="section-performance">
+                    <img class="img-section" src="img/performance.jpg" alt="performance">
+                    <div class="performance-p">
+                        <p>Snowset c’est la performance<br> de la chaussette. Sa coupe et ses<br> composants assurentun excellent maintien<br> qui sublimera vos performances. Snowset<br> accompagne les amateurs de sensations fortes,<br> passionés par le sport.</p>
+                    </div>
+                </section>
 
-		<section data-aos="fade-up-left" class="section-confort">
-			<img src="img/confort.jpg" alt="confort">
-			<div class="confort-p">
-				<p>Snowset c’est la performance de la chaussette. Sa coupe et ses composants assurentun excellent maintien qui sublimera vos performances. Snowset accompagne les amateurs de sensations fortes, passionés par le sport.</p>
-			</div>
-		</section>
+                <section data-aos="fade-up-left" class="section-confort">
+                    <img class="img-section" src="img/confort.jpg" alt="confort">
+                    <div class="confort-p">
+                        <p>Snowset c’est la performance de la chaussette. Sa coupe et ses composants assurentun excellent maintien qui sublimera vos performances. Snowset accompagne les amateurs de sensations fortes, passionés par le sport.</p>
+                    </div>
+                </section>
 
-		<section data-aos="fade-up-right" class="section-originalité">
-			<img src="img/originalite.jpg" alt="originalite">
-			<div class="originalité-p">
-				<p>Snowset c’est la performance de la chaussette. Sa coupe et ses composants assurentun excellent maintien qui sublimera vos performances. Snowset accompagne les amateurs de sensations fortes, passionés par le sport.</p>
-			</div>
-		</section>
-
+                <section data-aos="fade-up-right" class="section-originalite">
+                    <img class="img-section" src="img/originalite.jpg" alt="originalite">
+                    <div class="originalite-p">
+                        <p>Snowset c’est la performance de la chaussette. Sa coupe et ses composants assurentun excellent maintien qui sublimera vos performances. Snowset accompagne les amateurs de sensations fortes, passionés par le sport.</p>
+                    </div>
+                </section>
+            </div>
+        </main>
 
 		<?php include 'includes/footer.php' ?>
 
