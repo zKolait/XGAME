@@ -11,6 +11,7 @@
         <link rel="stylesheet" type="text/css" href="css/header.css">
         <link rel="stylesheet" type="text/css" href="css/footer.css">
         <link rel="stylesheet" type="text/css" href="jquery/aos.css">
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css">
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     </head>
 
@@ -65,6 +66,8 @@
                 </div>
             </article>
         </section>
+
+        <button class="topBtn"><i class="fas fa-arrow-circle-up"></i></button>
         
         <?php include 'includes/footer.php' ?>
 
@@ -76,5 +79,6 @@
             duration: 2000,
         });
     </script>
+    <script type="text/javascript" src="js/script.js"></script>
     </body>
 </html>

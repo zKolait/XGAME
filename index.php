@@ -8,6 +8,7 @@
     <link rel="stylesheet" type="text/css" href="css/index.css">
     <link rel="stylesheet" type="text/css" href="css/style.css">
     <link rel="stylesheet" type="text/css" href="css/footer.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css">
 </head>
 
 
@@ -106,6 +107,8 @@
                     </div>
                 </div>
             </div>
+
+            <button class="topBtn"><i class="fas fa-arrow-circle-up"></i></button>
         </main>
 
         <?php
@@ -127,6 +130,7 @@
             $("body").css("overflow", "scroll");
         });
     </script>
+    <script type="text/javascript" src="js/script.js"></script>
 
 </body>
 
