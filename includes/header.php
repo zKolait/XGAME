@@ -1,3 +1,15 @@
+<div class="menu">
+    <nav>
+        <ul>
+            <li><a href="index.php"><span>HOME</span></a></li>
+            <li><a href="boutique.php"><span>BOUTIQUE</span></a></li>
+            <li><a href="partenaires.php"><span>PARTENAIRE</span></a></li>
+            <li><a href="marque.php"><span>NOTRE MARQUE</span></a></li>
+            <li><a href="panier.php"><span>PANIER</span></a></li>
+        </ul>
+    </nav>
+</div>
+
 <header>
 
     <section class="navbar">
@@ -24,6 +36,12 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script>
     $("#menu").click(function() {
-        alert("menu");
+        $(".menu").css("display", "flex").hide().fadeIn();
+        $("body").css("overflow", "hidden");
+    });
+
+    $(".menu").click(function() {
+        $(".menu").css("display", "none");
+        $("body").css("overflow", "scroll");
     });
 </script>
