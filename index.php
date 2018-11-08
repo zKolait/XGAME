@@ -2,6 +2,7 @@
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Snowset</title>
     <link rel="stylesheet" type="text/css" href="css/index.css">
@@ -48,7 +49,7 @@
 
             <div class="showcase">
                 <div class="article">
-                    <a href="">DISCOVER</a>
+                    <a href="marque.phpw">DISCOVER</a>
                 </div>
             </div>
 
@@ -57,9 +58,9 @@
        <main>
             <div class="top-article">
                 <div class="article-top-left">
-                    <a href="">
+                    <a href="partenaires.php">
                         <div class="wrapper">
-                            <img class="img-article" src="img/image1.png" alt="">
+                            <img class="img-article" src="img/image1.png" alt="Partenaires Snowset">
                             <div class="info">
                                 <img src="img/article-top-left.png" alt="Article nos partenaires">
                             </div>
@@ -68,11 +69,11 @@
                 </div>
 
                 <div class="article-top-right">
-                    <a href="">
+                    <a href="marque.php">
                         <div class="wrapper">
-                            <img class="img-article" src="img/image2.png" alt="">
+                            <img class="img-article" src="img/image2.png" alt="Marque Snowset">
                             <div class="info">
-                                <img src="img/article-top-left.png" alt="Article nos partenaires">
+                                <img src="img/article-top-right.png" alt="Notre marque Snowset">
                             </div>
                         </div>
                     </a>
@@ -81,11 +82,11 @@
 
             <div class="mid-article">
                 <div class="mid-article-mid">
-                    <a href="">
+                    <a href="boutique.php">
                         <div class="wrapper2">
-                            <img class="img-article" src="img/image3.png" alt="">
+                            <img class="img-article" src="img/image3.png" alt="Boutique 2019">
                             <div class="info">
-                                <img src="img/article-top-left.png" alt="Article nos partenaires">
+                                <img src="img/article-mid.png" alt="Collection boutique 2019">
                             </div>
                         </div>
                     </a>
@@ -94,25 +95,15 @@
 
             <div class="bottom-article">
                 <div class="article-bottom-left">
-                    <a href="">
-                        <div class="wrapper">
-                            <img class="img-article" src="img/image4.png" alt="">
-                            <div class="info">
-                                <img src="img/article-top-left.png" alt="Article nos partenaires">
-                            </div>
-                        </div>
-                    </a>
+                    <div class="wrapper">
+                        <img class="img-article" src="img/image4.png" alt="snowset">
+                    </div>
                 </div>
 
                 <div class="article-bottom-right">
-                    <a href="">
-                        <div class="wrapper">
-                            <img class="img-article" src="img/image5.png" alt="">
-                            <div class="info">
-                                <img src="img/article-top-left.png" alt="Article nos partenaires">
-                            </div>
-                        </div>
-                    </a>
+                    <div class="wrapper">
+                        <img class="img-article" src="img/image5.png" alt="snowset">
+                    </div>
                 </div>
             </div>
         </main>

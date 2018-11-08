@@ -10,6 +10,8 @@ main {
     width: 100%;
     display: flex;
     justify-content: center;
+    align-items: center;
+    flex-direction: column;
 }
 
 main .title-center {
@@ -33,6 +35,13 @@ main .title-center h2 span {
     font-size: 28px;
     font-weight: bold;
     text-transform: uppercase;
+}
+
+main p {
+    width: 60%;
+    line-height: 25px;
+    font-size: 16px;
+    text-align: center;
 }
 
 /* Formulaire */

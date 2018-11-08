@@ -1,3 +1,14 @@
+/* Typos */
+
+@font-face 
+{
+    font-family: 'helvetica_neueregular';
+    src: url('../fonts/helveticaneue-roman-webfont.woff2') format('woff2'),
+         url('typos/helveticaneue-roman-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
 @media screen and (min-width: 1000px) {
 	footer {
 		height: 90px;
@@ -38,11 +49,12 @@
 	}
 
 	footer nav ul li {
-		font-size: 24px;
+		font-size: 20px;
 	}
 
 	footer nav ul li a {
 		text-decoration: none;
+		font-family: 'helvetica_neueregular';
 		color: #4f4f4f;
 	}
 

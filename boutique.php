@@ -2,6 +2,7 @@
 <html lang="fr">
 <head>
 	<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 	<title>Snowset</title>
 	<link rel="stylesheet" type="text/css" href="css/style.css">
@@ -35,33 +36,33 @@
 
 			<div class="bottom-boutique">
 				<div class="boutique-bottom-left">
-                    <a href="">
+                    <a href="panier.php">
                         <div class="wrapper">
-                            <img src="img/boutiquehomme.jpg" alt="">
+                            <img src="img/boutiquehomme.jpg" alt="collection homme">
                             <div class="info">
-                                <img src="img/article-top-left.png" alt="produit 1">
+                                <img src="img/article-top-left.png" alt="boutique homme">
                             </div>
                         </div>
                     </a>
 				</div>
 
 				<div class="boutique-bottom-mid">
-                    <a href="">
+                    <a href="panier.php">
                         <div class="wrapper">
-                            <img src="img/boutiquefemme.jpg" alt="">
+                            <img src="img/boutiquefemme.jpg" alt="collection femme">
                             <div class="info">
-                                <img src="img/article-top-left.png" alt="produit 2">
+                                <img src="img/boutique-bottom-mid.png" alt="boutique femme">
                             </div>
                         </div>
                     </a>
 				</div>
 
 				<div class="boutique-bottom-right">
-                    <a href="">
+                    <a href="panier.php">
                         <div class="wrapper">
-                            <img src="img/boutiqueautre.jpg" alt="">
+                            <img src="img/boutiqueautre.jpg" alt="collection enfant">
                             <div class="info">
-                                <img src="img/article-top-left.png" alt="produit 3">
+                                <img src="img/boutique-bottom-right.png" alt="boutique enfant">
                             </div>
                         </div>
                     </a>

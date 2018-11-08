@@ -3,6 +3,7 @@
 <html lang="fr">
     <head>
         <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta http-equiv="X-UA-Compatible" content="ie=edge">
         <title>Nos Partenaires</title>
          <link rel="stylesheet" type="text/css" href="css/style.css">
@@ -32,7 +33,9 @@
                 <h3>X games</h3>
                 <p>Les X Games sont une compétition annuelle de plusieurs sports dits extrêmes. Les jeux sont organisés et diffusés aux États-Unis (à Aspen, Colorado) par le réseau de télévision ESPN et sont séparés en deux saisons : les Winter X Games et les Summer X Games.</p>
                 <div class="container-btn">
-                    <button class="btn discover">Discover</button>
+                    <a href="marque.php">
+                        <button class="btn discover">Discover</button>
+                    </a>
                 </div>
             </article>
         </section>
@@ -43,7 +46,9 @@
                 <h3>Rock on snowboard tour</h3>
                 <p>Un événement itinérant 100% snowboard, à l'occasion duquel plus de 25 marques proposent de tester gratuitement leur novueau matériel aux passionés, initiés et amateurs, venus de la France entière. </p>
                 <div class="container-btn">
-                    <button class="btn discover">Discover</button>
+                    <a href="marque.php">
+                        <button class="btn discover">Discover</button>
+                    </a>
                 </div>
             </article>
         </section>
@@ -54,7 +59,9 @@
                 <h3>Ski force winter tour</h3>
                 <p>Le Ski Force Winter Tour revient avec près de 20 marques à ses côtés, lors de deux weekends dans deux stations : Tignes et Val d'Isère. Pendant ces deux événemebts, vous pouvez aller découvrir les novuelles gammes et célébrer l'ouverture de la saison.</p>
                 <div class="container-btn">
-                    <button class="btn discover">Discover</button>
+                    <a href="marque.php">
+                        <button class="btn discover">Discover</button>
+                    </a>
                 </div>
             </article>
         </section>

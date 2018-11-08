@@ -2,8 +2,7 @@
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport"
-          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Contact</title>
     <link rel="stylesheet" type="text/css" href="css/style.css">
@@ -23,6 +22,8 @@
         <div class="title-center">
             <h2><span>Nous contacter</span></h2>
         </div>
+
+        <p><i>N'hésitez pas à nous laisser un message si vous avez la moindre interrogation sur notre produit ou si vous souhaitez obtenir plus de renseignements, l'équipe Snowset est à votre disposition !</i></p>
 
     </main>
 

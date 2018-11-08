@@ -450,16 +450,12 @@
         width: 50%;
         min-width: 400px;
         margin-right: 10px;
-
-        cursor: pointer;
     }
 
     .article-bottom-right {
         width: 50%;
         min-width: 400px;
         margin-right: 10px;
-
-        cursor: pointer;
     }
 
     main .wrapper img {
@@ -529,16 +525,12 @@
         width: 50%;
         min-width: 200px;
         margin-left: 5px;
-
-        cursor: pointer;
     }
 
     .article-bottom-right {
         width: 50%;
         min-width: 200px;
         margin-left: 5px;
-
-        cursor: pointer;
     }
 
     main .wrapper img {
@@ -609,15 +601,11 @@
         width: 100%;
         min-width: 200px;
         margin-bottom: 10px;
-
-        cursor: pointer;
     }
 
     .article-bottom-right {
         width: 100%;
         min-width: 200px;
-
-        cursor: pointer;
     }
 
     main .wrapper img {
