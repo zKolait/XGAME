@@ -69,7 +69,7 @@
 
 @media screen and (max-width: 1000px) {
 	footer {
-		height: 160px;
+		height: 200px;
 		width: 100%;
 		background: url("../img/background.jpg");
 		background-size: 140%;
