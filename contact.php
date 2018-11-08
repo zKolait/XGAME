@@ -5,28 +5,44 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>SnowSet</title>
-    <link rel="stylesheet" type="text/css" href="css/form.css">
+    <title>Contact</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="stylesheet" type="text/css" href="css/contact.css">
+    <link rel="stylesheet" type="text/css" href="css/footer.css">
+    <link rel="stylesheet" type="text/css" href="css/header.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 </head>
 
-
-
 <body>
+<div class="container">
 
-<div class="contact">
-    <h3>Contact</h3>
+    <?php include 'includes/header.php' ?>
 
-    <form method="POST">
-        <input type="text" name="name" placeholder="Nom">
-        <input type="email" name="email" placeholder="Adresse email">
-        <input type="text" name="subject" placeholder="Objet">
-        <textarea rows="4" name="message" placeholder="Message"></textarea>
-        <input type="submit" id="submit" value="Envoyer">
-        <div id="reponse"></div>
-    </form>
+    <main>
+
+        <div class="title-center">
+            <h2><span>Nous contacter</span></h2>
+        </div>
+
+    </main>
+
+    <div class="contact">
+        <form method="POST">
+            <input type="text" name="name" placeholder="Nom">
+            <input type="email" name="email" placeholder="Adresse email">
+            <input type="text" name="subject" placeholder="Objet">
+            <textarea rows="4" name="message" placeholder="Message"></textarea>
+            <div class="btn-form">
+                <input type="submit" id="submit" value="Envoyer">
+            </div>
+            <div id="reponse"></div>
+        </form>
+    </div>
+
+    <?php include 'includes/footer.php' ?>
 
 </div>
+
 <script>
     $("#submit").click(function(e){
         e.preventDefault();
