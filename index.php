@@ -30,6 +30,12 @@
 
         <header>
 
+            <div class="wrapper3">
+               <video autoplay loop muted class="wrapper__video">
+                  <source src="video/video-bg.mp4">
+               </video>
+            </div>
+
             <section class="navbar">
                 <div class="logo">
                     <a href="index.php"><img src="img/logo.png" alt="Logo SnowSet"></a>
